@@ -1,0 +1,3 @@
+# Dépendances embarquées dans le paquet Lambda (le SDK boto3 est déjà fourni
+# par le runtime AWS Lambda).
+aws-lambda-powertools[tracer]==3.40.0
