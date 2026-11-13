@@ -1,0 +1,10 @@
+{
+  "number": "FAC-2026-0042",
+  "supplier": "SBEE",
+  "country": "BJ",
+  "currency": "XOF",
+  "lines": [
+    {"description": "Électricité novembre", "quantity": "1", "unit_price": "185000"},
+    {"description": "Frais de compteur", "quantity": "2", "unit_price": "2500.50"}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "number": "FAC-2026-0099",
+  "supplier": "Nouveau Fournisseur SARL",
+  "country": "BJ",
+  "currency": "XOF",
+  "lines": [{"description": "Serveurs", "quantity": "3", "unit_price": "2500000"}]
+}
