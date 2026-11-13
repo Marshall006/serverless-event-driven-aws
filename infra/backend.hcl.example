@@ -1,0 +1,3 @@
+# Copier en infra/backend.hcl (non versionné) : même bucket que la landing zone
+bucket = "tfstate-123456789012-eu-west-3"
+region = "eu-west-3"
